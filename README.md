@@ -13,11 +13,10 @@ Hey there!<br>I'm a sophomore Computer Engineering student at A.P.S.I.T affiliat
 ![](https://nirzak-streak-stats.vercel.app/?user=ishaan-dandekar&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-dandekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-# 📈 LeetCode Stats
+## 🧠 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ishaan-dandekar?theme=transparent&font=Fira%20Code&ext=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/ishaan-dandekar?theme=auto&font=baloo&extension=activity)
 
-![LeetCode Streak](https://leetcode-badge-showcase.vercel.app/api/streak/ishaan-dandekar)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ishaan-dandekar&theme=transparent&border=no-border)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
