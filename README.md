@@ -62,7 +62,7 @@ I like building things that actually work — fast, smart, and at scale.
 <h2>🧠 LeetCode</h2>
 <br>
 
-<img src="https://leetcard.jacoblin.cool/ishaan-dabdekar?theme=transparent" />
+<img src="https://leetcard.jacoblin.cool/ishaan-dandekar?theme=transparent" />
 
 </td>
 
