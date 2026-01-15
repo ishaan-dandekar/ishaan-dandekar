@@ -1,7 +1,7 @@
-<table cellspacing="20">
+<table cellspacing="20" style="border:none;">
 <tr>
 
-<td width="55%" valign="top">
+<td width="55%" valign="top" style="border:none;">
 
 <h2>💫 About Me</h2>
 <p>
@@ -34,24 +34,25 @@ I like building things that actually work — fast, smart, and at scale.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="45%" valign="top" style="border:none;">
 
 <h2>📊 GitHub Stats</h2>
-
 <br>
 
 <p align="center">
   <img width="420"
-       src="https://nirzak-streak-stats.vercel.app/?user=ishaan-dandekar&theme=transparent&hide_border=false" />
+       src="https://nirzak-streak-stats.vercel.app/?user=ishaan-dandekar&theme=transparent&hide_border=true" />
 </p>
 
 <br>
 
-
 <h2>🧠 LeetCode</h2>
 <br>
 
-<img src="https://leetcard.jacoblin.cool/ishaan-dandekar?theme=transparent" />
+<p align="center">
+  <img width="420"
+       src="https://leetcard.jacoblin.cool/ishaan-dandekar?theme=transparent" />
+</p>
 
 </td>
 
