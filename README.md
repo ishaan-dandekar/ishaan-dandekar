@@ -37,26 +37,21 @@ I like building things that actually work — fast, smart, and at scale.
 <td width="45%" valign="top">
 
 <h2>📊 GitHub Stats</h2>
-<br>
+<p align="center">
+  <img width="420"
+       src="https://github-readme-stats.vercel.app/api?username=ishaan-dandekar&theme=transparent&cache_seconds=1800" />
+</p>
 
 <p align="center">
   <img width="420"
-       src="https://github-readme-stats.vercel.app/api?username=ishaan-dandekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-dandekar&layout=compact&theme=transparent&cache_seconds=1800" />
 </p>
-
-<br>
 
 <p align="center">
   <img width="420"
-       src="https://nirzak-streak-stats.vercel.app/?user=ishaan-dandekar&theme=transparent&hide_border=false" />
+       src="https://leetcard.jacoblin.cool/ishaan-dandekar?theme=transparent" />
 </p>
 
-<br>
-
-<p align="center">
-  <img width="420"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-dandekar&theme=transparent&hide_border=false&layout=compact" />
-</p>
 
 
 <h2>🧠 LeetCode</h2>
