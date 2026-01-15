@@ -39,15 +39,25 @@ I like building things that actually work — fast, smart, and at scale.
 <h2>📊 GitHub Stats</h2>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishaan-dandekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
-<br><br>
+<p align="center">
+  <img width="420"
+       src="https://github-readme-stats.vercel.app/api?username=ishaan-dandekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ishaan-dandekar&theme=transparent&hide_border=false" />
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-dandekar&theme=transparent&hide_border=false&layout=compact" />
+<p align="center">
+  <img width="420"
+       src="https://nirzak-streak-stats.vercel.app/?user=ishaan-dandekar&theme=transparent&hide_border=false" />
+</p>
 
-<br><br>
+<br>
+
+<p align="center">
+  <img width="420"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-dandekar&theme=transparent&hide_border=false&layout=compact" />
+</p>
+
 
 <h2>🧠 LeetCode</h2>
 <br>
