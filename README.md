@@ -15,8 +15,6 @@ Hey there!<br>I'm a sophomore Computer Engineering student at A.P.S.I.T affiliat
 
 ## 🧠 LeetCode
 
-![LeetCode Stats](https://leetcode.card.workers.dev/ishaan-dandekar?theme=auto&font=baloo&extension=activity)
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ishaan-dandekar&theme=transparent&border=no-border)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ishaan-dabdekar?theme=transparent)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
