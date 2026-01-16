@@ -50,9 +50,12 @@ I like building things that actually work — fast, smart, and at scale.
 <br>
 
 <p align="center">
-  <img width="420"
-       src="https://leetcard.jacoblin.cool/ishaan-dandekar?theme=transparent" />
+  <a href="https://leetcode.com/ishaan-dandekar/" target="_blank">
+    <img width="420"
+         src="https://leetcard.jacoblin.cool/ishaan-dandekar?theme=transparent" />
+  </a>
 </p>
+
 
 </td>
 
